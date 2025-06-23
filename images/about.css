@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-image: url("https://wallpapers.com/images/hd/tech-background-t29vt7psb6i6sgcy.jpg");
+  background-size: cover; 
+  background-position: center; 
+  padding: 50px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: white;
+}
+
+
+.container {
+  padding: 30px;
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+footer {
+  background-color: rgb(228, 228, 228);
+  color: #ffffff;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 50px;
+}
